@@ -4,7 +4,7 @@
 
 # --- STARTER CODE ---
 # This starter program checks if a temperature is hot, warm, or cold.
-# Extend it, change the theme, or use it as inspiration for your own idea.
+# Extend it, change the theme, or use it as inspiration for your own idea. 
 
 temp_input = input("Enter a temperature in Fahrenheit: ")
 temperature = float(temp_input)
